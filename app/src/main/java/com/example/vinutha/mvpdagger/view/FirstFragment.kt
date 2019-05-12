@@ -6,7 +6,7 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.TextView
 import com.example.vinutha.mvpdagger.FirstFragmentContract
-import com.example.vinutha.wiidirect.R
+import com.example.vinutha.mvpdagger.R
 import dagger.android.support.DaggerFragment
 import javax.inject.Inject
 

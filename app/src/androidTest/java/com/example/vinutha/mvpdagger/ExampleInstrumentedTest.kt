@@ -1,4 +1,4 @@
-package com.example.vinutha.wiidirect
+package com.example.vinutha.mvpdagger
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4
